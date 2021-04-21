@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lanadee
+- 👀 I’m interested in data science and business analysis
+- 🌱 I’m currently learning how to analyze data in Excel, SQL, and Python
+- 💞️ I’m looking to collaborate on internship program on business analysis and data analysis
+- 📫 Reach me at lanadang.pm@gmail.com
