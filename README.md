@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lanadee
-- 👀 I’m interested in data science and business analysis
-- 🌱 I’m currently learning how to analyze data in Excel, SQL, and Python
-- 💞️ I’m looking to collaborate through entry level position on business analysis and data analysis
+- 👀 I’m interested in data analysis, user experience, and web design
+- 🌱 I’m currently learning data analysis using excel, SQL, and visualization tools. Besides, I'm also learning web development. 
 - 📫 Reach me at lanadang.pm@gmail.com
